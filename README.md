@@ -95,9 +95,3 @@ your-repo/
 - You can adapt paths in the scripts to match your folder structure.
 
 ---
-
-## 👤 Author
-
-Add your name here!
-
-Happy coding! 🚀
