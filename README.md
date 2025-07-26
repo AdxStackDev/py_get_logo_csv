@@ -1,5 +1,7 @@
 
 # Logo Records and Label Counter
+<img src="https://github.com/AdxStackDev/py_get_logo_csv/raw/main/snap_3.png" width="1000">
+
 
 This repository contains two simple Python scripts for managing image records of logo files.
 
